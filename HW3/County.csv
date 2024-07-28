@@ -1,8 +1,8 @@
-County_Code,County_Name,State
-1045,Dale County,Alabama
-1061,Geneva County,Alabama
-1067,Henry County,Alabama
-1069,Houston County,Alabama
+county,county_name,state
+01045,Dale County,Alabama
+01061,Geneva County,Alabama
+01067,Henry County,Alabama
+01069,Houston County,Alabama
 12001,Alachua County,Florida
 12003,Baker County,Florida
 12005,Bay County,Florida
